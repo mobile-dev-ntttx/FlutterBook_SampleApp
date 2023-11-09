@@ -1,3 +1,16 @@
 # sample_flutter_app
 
-このアプリは、Flutterアプリ開発入門 2章.Flutterのアプリ開発(2.2.2.画面遷移を伴うアプリの作成)に掲載しているものです。
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
